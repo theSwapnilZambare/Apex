@@ -18,6 +18,12 @@ Learn the fundamentals of the Apex programming language.
 
 
 
+## Trailhead Trailmix:
+
+- <a href="https://trailhead.salesforce.com/en/users/theswapnilzambare/trailmixes/apex">Apex Trailmix</a>
+
+
+
 
 <hr style="border-top: 2px dotted red;">
 
