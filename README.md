@@ -15,4 +15,4 @@ Learn the fundamentals of the Apex programming language.
 
 <hr style="border-top: 2px dotted red;">
 
-## <a href="https://theswapnilzambare.github.io" target="_blank">https://theSwapnilZambare.github.io</a>
+## <a href="https://theswapnilzambare.github.io/Apex/" target="_blank">https://theswapnilzambare.github.io/Apex/</a>
