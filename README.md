@@ -4,23 +4,23 @@ Learn the fundamentals of the Apex programming language.
 
 ## Trailhead Trail:
 
-- <a href="https://trailhead.salesforce.com/en/content/learn/trails/build-apex-coding-skills">Build Apex Coding Skills</a>
+- <a href="https://trailhead.salesforce.com/en/content/learn/trails/build-apex-coding-skills" target="_blank">Build Apex Coding Skills</a>
 
 
 
 ## Trailhead Modules:
 
-- <a href="https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex">Quick Start: Apex</a>
+- <a href="https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex" target="_blank">Quick Start: Apex</a>
 
-- <a href="https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins">Apex Basics for Admins</a>
+- <a href="https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins" target="_blank">Apex Basics for Admins</a>
 
-- <a href="https://trailhead.salesforce.com/en/content/learn/modules/platform_dev_basics">Platform Development Basics</a>
+- <a href="https://trailhead.salesforce.com/en/content/learn/modules/platform_dev_basics" target="_blank">Platform Development Basics</a>
 
 
 
 ## Trailhead Trailmix:
 
-- <a href="https://trailhead.salesforce.com/en/users/theswapnilzambare/trailmixes/apex">Apex Trailmix</a>
+- <a href="https://trailhead.salesforce.com/en/users/theswapnilzambare/trailmixes/apex" target="_blank">Apex Trailmix</a>
 
 
 
