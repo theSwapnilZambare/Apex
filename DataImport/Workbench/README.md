@@ -10,7 +10,9 @@
 
 
 ## How to Backup Salesforce org configuration data (Retrieve operation): 
-1. Download an ExportOrgData.xml file. 
+1. Download an ExportOrgData.xml
+	1. <a href="https://raw.githubusercontent.com/theSwapnilZambare/Apex/main/DataImport/Workbench/ExportOrgData.xml" target="_blank">ExportOrgData.xml</a> => Press "Ctrl + S" => Save  OR 
+	2. <a href="https://downgit.github.io/#/home?url=https://github.com/theSwapnilZambare/Apex/blob/main/DataImport/Workbench/ExportOrgData.xml" target="_blank">ExportOrgData.xml</a> zip file and extract. 
 2. Visit the <a href="https://workbench.developerforce.com/login.php" target="_blank">Workbench site</a> and login with your username and password.
 3. Click the Migration tab.
 4. Select the Retrieve option.
