@@ -6,8 +6,10 @@
 - <a href="https://workbench.developerforce.com/login.php" target="_blank">Workbench Login</a>
 
 
+========================================================================
 
-## To perform a Retrieve operation (Get the configuration data from Salesforce): 
+
+## How to Backup Salesforce org configuration data (Retrieve operation): 
 1. Download an ExportOrgData.xml file. 
 2. Visit the <a href="https://workbench.developerforce.com/login.php" target="_blank">Workbench site</a> and login with your username and password.
 3. Click the Migration tab.
@@ -18,8 +20,7 @@
 8. Click Download Zip File.
 
 
-
-
+=======================================================================
 
 
 
