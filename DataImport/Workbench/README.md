@@ -15,7 +15,8 @@
 5. In Unpackaged Manifest section click the "Browse" button, then select the package ExportOrgData.xml file downloaded. 
 6. Click the Next Button.
 7. Click the Retrieve button.
-8. Click Download Zip File remember the location for any future deployment.
+8. Click Download Zip File.
+
 
 
 
